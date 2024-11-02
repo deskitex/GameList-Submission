@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GameEngine" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blueLight</item>
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="background">@color/darkBlue</item>
+        <item name="titleTextStyle">@style/MyActionBarTitle</item>
+    </style>
+
+    <style name="MyActionBarTitle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Theme.GameEngine" parent="Base.Theme.GameEngine" />
+
+    <style name="Theme.App.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/avd_anim</item>
+        <item name="windowSplashScreenAnimationDuration">700</item>
+        <item name="postSplashScreenTheme">@style/Theme.GameEngine</item>
+    </style>
+</resources>

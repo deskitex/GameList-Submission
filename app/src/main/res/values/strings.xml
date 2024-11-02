@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">GameEngine</string>
+    <string name="game_name">Game_Name</string>
+    <string name="description">Description</string>
+    <string name="game_dev">Game_Dev</string>
+    <string name="about">About</string>
+    <string name="my_name">Reynold Oktaranto Akhbar</string>
+    <string name="my_email">deskitex@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="view_on_steam">View on Steam</string>
+    <string name="features">Features</string>
+    <string name="screenshot">Screenshot</string>
+
+    <string-array name="data_name">
+        <item>The Garden Path</item>
+        <item>Dome Keeper</item>
+        <item>Of Life and Land</item>
+        <item>Until Then</item>
+        <item>Pingo Adventure</item>
+        <item>Kamaeru</item>
+        <item>Gourdlets</item>
+        <item>TailQuest Defense</item>
+        <item>Lumencraft</item>
+        <item>Haiki</item>
+    </string-array>
+
+    <string-array name="data_dev">
+        <item>carrotcake</item>
+        <item>Bippinbits</item>
+        <item>Kerzoven</item>
+        <item>Polychroma Games</item>
+        <item>Orb Square Studio</item>
+        <item>Humble Reeds</item>
+        <item>AuntyGames </item>
+        <item>Kivano Games</item>
+        <item>2Dynamic Games</item>
+        <item>Richard Hörnig</item>
+    </string-array>
+
+    <string-array name="data_date">
+        <item>July 30</item>
+        <item>September 2022</item>
+        <item>April 2024</item>
+        <item>June 2024</item>
+        <item>November 2023</item>
+        <item>June 2024</item>
+        <item>August 2024</item>
+        <item>June 2023</item>
+        <item>February 2023</item>
+        <item>October 2021</item>
+    </string-array>
+
+    <string-array name="data_steam">
+        <item>https://store.steampowered.com/app/1638500/The_Garden_Path/</item>
+        <item>https://store.steampowered.com/app/1637320/Dome_Keeper/</item>
+        <item>https://store.steampowered.com/app/1733110/Of_Life_and_Land/</item>
+        <item>https://store.steampowered.com/app/1574820/Until_Then/</item>
+        <item>https://store.steampowered.com/app/2015830/Pingo_Adventure/</item>
+        <item>https://store.steampowered.com/app/1978150/Kamaeru_A_Frog_Refuge/</item>
+        <item>https://store.steampowered.com/app/2013730/Gourdlets</item>
+        <item>https://store.steampowered.com/app/824090/TailQuest_Defense/</item>
+        <item>https://store.steampowered.com/app/1713810/Lumencraft/</item>
+        <item>https://store.steampowered.com/app/1395270/Haiki/</item>
+    </string-array>
+
+    <string-array name="data_features">
+        <item>- A humble gardening slice-of-life sim with real-time progression even when you’re away.
+\n- Designed with short play sessions in mind; with 10-30 minutes of daily errands, visitors, and more to explore.
+\n- Flexible playstyle including gardening, fishing, home-design, and quests.
+\n- A charming cast of characters, all with their own stories to tell.
+\n- Piece together a whimsical history as you discover the secrets of the Garden.
+\n- Lush illustrated visuals and a twinkling soundtrack invites you to take a break and stay awhile.
+\n- Invite another to join you in local co-op mode and nurture your garden together.</item>
+        <item>- Dig: Drill tunnels beneath your dome in search of precious materials or to uncover powerful hidden artifacts
+\n- Defend: Take control of your defenses to fend off the alien attacks.
+\n- Develop: Utilize your mineral harvest to unlock powerful upgrades augment your weapons, enhance the impact of your drill, boost your jetpack’s max speed, and many other upgrade paths
+        </item>
+        <item>
+            - Unique deep simulation of the nature in a building strategy game with complex interdependence between humans and nature.
+\n- Manage simultaneously the acquisition, refining and distribution of resources on multiple maps in different climatic conditions.
+\n- Manage the needs of the citizens. They are “alive” and have a specific home, workplace, and unique needs.
+\n- Animals are looking for food, get thirsty, sleepy, and form social groups to find their place in nature.
+\n- Plants grow and are affected by the actions of the humans, animals, and their environment.
+\n- Seasons and climate affect the gameplay, as certain plants grow only under certain conditions. Temperature affects humans, animals, plants, and the environment.
+\n- Interact and trade with other factions that produce goods with the same rules as you do.
+\n- Create own maps and scenarios in the editor and extend them using mods.
+\n- Charming and calm low poly art style.
+        </item>
+        <item>
+            - Play Out Your Own Adventure: Meet a diverse and achingly familiar cast of characters to converse with in person, over text, and through email.
+\n- Investigate the Setting through Everyday Technology: Explore the depths of social media where your likes and comments may pose consequences. Scroll through social posts, emails, webpages,
+\n- Explore Themes of Love, Loss, and Friendship: Tackle philosophical issues as the main character. Make mistakes and difficult choices.
+\n- Play Addictively Mundane Minigames: Insert a flash drive—oh wait, wrong way—nope, it was right the first time. Fight your friend for more fishballs at the food stand outside.
+\n- Immerse Yourself in a Cinematic Visual Experience: Witness an intriguing narrative uniquely presented in eye-catching hand-drawn pixel art and immerse yourself in the warm colors and music of a world trying to move on from tragedy
+\n- Experience a World Inspired by Philippine Locations and Culture: Traverse Philippine-inspired landscapes in search for the truth. From the heart of the bustling capital to long bus rides past grass fields and coast towns, explore the world of Until Then set in a fictional version of the Philippines.
+        </item>
+        <item>
+            - Physics Simulation - Immerse in the physics simulated cute world with jiggly plants, bouncy bridge, springy rope and more...
+\n- Puzzles - Solving puzzles designed for the physics simulated environment
+\n- Mini Games - Collect replayable mini games from adventures
+\n- Camera Mode - Capture the cute moments of your adventures from different angles
+\n- Character Customization - Customize your own Pingo with various costumes that you can unlock from the adventures
+        </item>
+        <item>
+- Collect frogs: Feed, breed, collect, and raise all of the game’s 500+ frogs! It’s up to you to figure out the secret to attracting new and adorable frogs. You can complete your collection by unlocking all the rare colors through a special breeding mini-game. When new ones join your refuge, use the in-game camera to take photos of them and collect them for your frogedex!
+\n- Restore the wetlands: In order to succeed in your quest for frog preservation, you will need to restore the nearby wetlands to their former glory. This will allow you to continually support and cultivate the area through a process known as paludiculture!
+\n- Customize your frog refuge: New furniture will bring new frogs with it! As you personalize your habitat, new poses of frogs will be shown into specific kinds of furniture. Plus, it’ll attract attention to the area–and with it, new visitors! You can even repaint furniture to better fit your own unique style sensibilities.
+        </item>
+        <item>
+            - Build a perfect town and watch the adorable gourdlets inhabit your world!
+\n- A super chill game with no objectives or fail states!
+\n- Gourdlets hang out at the bottom of your screen in idle window mode!
+\n- Customize your Gourdlet citizens with cute accessories!
+\n- Day-night cycles and customizable weather!
+\n- A huge catalogue of buildings and decorations!
+\n- Choose from a variety of starter maps for an extra creative challenge!
+\n- Zero currency! (Capitalism makes the gourdlets tired)
+
+        </item>
+        <item>
+            - Best game for couch co-op play!
+\n- Defeat hundreds of enemies and protect your friends!
+\n- Game for everyone! Casual, core and hardcore gamers
+\n- Game without violence
+\n- Colorful and vivid graphics
+\n- Tower defense mixed with puzzle platformer game
+\n- Explore a tiny world full of surprises
+\n- Solve environmental puzzles
+\n- Use the lever and watch the entire level change!
+\n- Use special items such as tomato-mines, the bubble gun, and more to stop evil robots!
+        </item>
+        <item>
+            - Multiple game modes - a story campaign, custom maps created by the developers and the community or procedurally generated levels. The choice is yours!
+\n- Defending the underground settlement by direct combat and the use of diversified turrets.
+\n- Highly efficient and satisfying digging mechanics (just listen to the sweet sound of crushed rocks and Lumen).
+\n- Explosive weapons. Yes, we have dynamite.
+\n- Dynamic lights and pixel-perfect interaction with a fully destructible terrain.
+\n- Dread atmosphere created through an impactful sound design and a unique 2Dynamic lighting system.
+\n- Realistic simulations. Just look at the lava!
+\n- Play with your friends in co-op mode either using Steam Remote Play or locally on a shared screen
+        </item>
+        <item>
+            - Fast-paced, intuitive, limb-free platforming
+\n- 80 levels, from EASY to PURE HELL
+\n- A story that makes Shakespeare look like an idiot
+\n- Speedrun mode for the truly hardcore
+\n- Collectible hats for the truly awesome
+        </item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>A slice-of-life sim about the joy of gardening, designed to be picked up and played in short and sweet bites. Whether you’re fishing, growing, trading, or making new vegetable friends, a wonderful and wistful adventure awaits when wandering The Garden Path.</item>
+        <item>Defend against waves of alien attackers in this innovative roguelike survival miner. Dig for resources and choose from powerful upgrade paths. Is there enough time to mine a little deeper and get back to defend before the monsters attack your dome?</item>
+        <item>Of Life and Land is a charming settlement-building strategy game paired with a rich simulation experience. Every animal and plant strives to find its place in nature while you lead your villagers to their future. Expand to different regions and trade with local factions to gain needed resources.</item>
+        <item>A fateful meeting sets off a chain reaction, upending Marks life. People disappear and memories prove unreliable. Uncover a hidden truth with Mark and his friends in this narrative adventure and race to unravel the mystery before its too late.</item>
+        <item>Pingo Adventure is a cute 3D platformer with interesting physics simulation. Follow Pingo to explore the world, solve puzzles, play mini games and even customize your Pingo with the costumes unlocked from the adventures!</item>
+        <item>Foster a sanctuary for frogs and restore the biodiversity of the wetlands in Kamaeru, a cozy frog collecting game, where you take pictures of frogs, play mini-games and decorate your habitat. Hop right to it!</item>
+        <item>An easygoing sandbox game about building towns for cute vegetable folks. Create your perfect community then watch as the gourdlets make themselves at home. No objectives, no points, just good vibes. Play in full screen, or let your gourdlets hang out at the bottom of your screen!</item>
+        <item>Explore a tiny world, defeat hundreds of enemies, experiment with the environment, find all secrets and enjoy the Adventure with a friend or in single player mode!</item>
+        <item>Lumencraft is a unique combination of a top-down, rogue-like shooter and base building with tower defense elements. Dig and light up dark halls of a fully destructible environment on procedurally generated maps and campaign levels to find precious Lumen - humanitys only chance for survival.</item>
+        <item>Haiki is the BRUTAL precision platformer where decapitation is just the beginning! Dive head-first into four worlds of colour-switching, laser-dodging, lightning-fast action. Haiki is the platformer where you dont need a body to get ahead.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/gardenpath</item>
+        <item>@drawable/doomkeeper</item>
+        <item>@drawable/lifeisland</item>
+        <item>@drawable/untilthen</item>
+        <item>@drawable/pingadventure</item>
+        <item>@drawable/kamaeru</item>
+        <item>@drawable/gourdlets</item>
+        <item>@drawable/tailquest</item>
+        <item>@drawable/lumencraft</item>
+        <item>@drawable/haiki</item>
+    </integer-array>
+
+    <integer-array name="data_thumb">
+        <item>@drawable/th1</item>
+        <item>@drawable/th2</item>
+        <item>@drawable/th3</item>
+        <item>@drawable/th4</item>
+        <item>@drawable/th5</item>
+        <item>@drawable/th6</item>
+        <item>@drawable/th7</item>
+        <item>@drawable/th8</item>
+        <item>@drawable/th9</item>
+        <item>@drawable/th10</item>
+    </integer-array>
+</resources>
